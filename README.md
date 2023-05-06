@@ -1,2 +1,2 @@
 # RRDriedThing
-Really Really Druied Thing.
+Really Really Dried Thing.
